@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
+    <versionNumber>0.6</versionNumber>
+    <versionLabel>修改特效</versionLabel>
+    <url>http://wedtmp.s3.amazonaws.com/airupdate/TemplaterTester.air</url>
+    <description><![CDATA[
+    ]]></description>
+</update>
